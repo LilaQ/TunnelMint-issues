@@ -17,6 +17,6 @@ Never post VPN passwords, private keys, certificates, complete configuration fil
 
 ## Release status
 
-TunnelMint is under active development and has not completed its commercial release review. Mac App Store distribution uses [Apple's Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/); no custom EULA is planned. Seller identity, regional availability, private support contact, and App Store declarations still require owner and legal approval before distribution. Separate terms will be required only if direct distribution is enabled.
+TunnelMint is under active development and has not completed its commercial release review. Seller identity, regional availability, private support contact, and App Store declarations still require owner and legal approval before distribution.
 
 This repository contains public product documentation only. No source-code license is granted here.
