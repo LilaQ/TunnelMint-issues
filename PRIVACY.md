@@ -2,7 +2,7 @@
 
 Last updated: 2026-08-17
 
-This document describes the current pre-release TunnelMint application. It must be reviewed against the final signed binary before publication in an app store.
+This document describes TunnelMint 1.0.0 for macOS.
 
 ## Data handling
 
@@ -27,4 +27,4 @@ Deleting a profile in TunnelMint removes that profile's locally stored metadata 
 
 Use the [public issue tracker](https://github.com/LilaQ/TunnelMint-issues/issues) only for questions that contain no confidential information. Do not publish credentials, keys, certificates, configuration files, or private network details.
 
-Release blocker: an owner-approved private contact address, legal seller identity, and final public privacy-policy URL must be supplied before commercial distribution.
+For confidential security reports, use GitHub's private vulnerability reporting flow described in [SECURITY.md](SECURITY.md). Publisher identity and any additional contact details required for a selected storefront or territory are provided through the applicable store listing.
